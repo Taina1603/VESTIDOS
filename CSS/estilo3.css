@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container1{
+        width: 800px;
+        height: 768px;
+        background-color: lightblue;
+        margin: auto;
+        flex-wrap: wrap;
+        display: flex;
+}
+.c01{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(108, 228, 228);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Italiana', serif;
+    color: azure;
+   
+}
+.c02{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(79, 175, 175);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Italiana', serif;
+    color: azure;
+}
+.c03{
+    width: 200px;
+    height: 60px;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Italiana', serif;
+    color: azure;
+}
+.c04{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(6, 75, 75);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Italiana', serif;
+    color: azure;
+}
+.c10{
+    width: 240px;
+    height: 30px;
+    background-color: lightblue;
+    margin-top:600px;
+    margin-left:500px;
+
+}
+.c11{
+    width: 400px;
+    height: 60px;
+    background-color: lightblue;
+    margin-left:5px;
+    margin-top: 10px;
+    align-items: center;
+    font-family: 'Italiana', serif;
+    color: black;
+
+    
+    
+}
+.c12{
+    width: 780px;
+    height: 150px;
+    background-color: lightblue;
+    margin-top:-650px;
+    margin-left: 10px;
+    font-family: 'Italiana', serif;
+    color: cadetblue;
+}
+.c13{
+    width: 380px;
+    height: 400px;
+    background-color: black;
+    margin-top:-485px;
+    margin-left:5px;
+}
+.c14{
+    width: 380px;
+    height: 300px;
+    background-color: brown;
+    margin-left: 30px;
+    margin-top: -450px;
+}
+a{
+    color: aliceblue;
+}
+a:hover{
+    color: blue;
+}
+a:link{
+    color: aliceblue;
+    text-decoration: none;
+}
